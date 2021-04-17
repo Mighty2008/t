@@ -1,0 +1,129 @@
+.m{
+
+    display:flex;
+    justify-content: center;    
+        
+    
+    }
+
+*{
+    background-color: rgb(60, 243, 145);
+}
+
+.p1{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p2{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p3{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p4{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+.p5{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p6{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p7{
+    flex-wrap: wrap;
+    background-color: rgb(221, 193, 160);
+    color:rgb(11, 78, 2);
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p8{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p9{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
+
+.p10{
+    flex-wrap: wrap;
+    color:rgb(11, 78, 2);
+    background-color: rgb(221, 193, 160);
+    
+    font-size:25px;
+    margin:30px;
+    padding:25px;
+    border-radius:20px;
+
+}
